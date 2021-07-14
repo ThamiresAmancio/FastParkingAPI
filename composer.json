@@ -1,0 +1,9 @@
+{
+    "name": "thami/icatalogo-api",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
